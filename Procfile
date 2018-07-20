@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/spring_boot_example*.jar --server.port=$PORT
